@@ -1,7 +1,7 @@
 
-# 👋 Hello
+# 👋 Hi There
 
-I'm Marcos Vinicius Gouvea, a dedicated and experienced Software Engineer specializing in NodeJs and TypeScript. Based in São Paulo, Brazil, I am currently working as a Senior Software Engineer at BBCE, where I focus on developing microservices and event-driven architectures using a variety of technologies.
+I'm Marcos Vinicius Gouvea, a dedicated and experienced Software Engineer specializing in NodeJs and TypeScript. Based in São Paulo, Brazil, I am currently working as a Senior Software Engineer, where I focus on developing microservices and event-driven architectures using a variety of technologies.
 
 
 # 🚀 Expertise
