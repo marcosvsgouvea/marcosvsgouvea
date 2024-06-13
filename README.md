@@ -8,7 +8,7 @@ I'm Marcos Vinicius Gouvea, a dedicated and experienced Software Engineer specia
 
 With a robust background in software engineering, my expertise lies in creating scalable and efficient microservices architectures. My professional journey has equipped me with deep knowledge in NodeJS, TypeScript, and Java, allowing me to build high-performance applications.
 
-At Novigo IT, I take pride in developing microservices in NodeJs with TypeScript, integrating various AWS services and ensuring agile development practices. My experience spans across diverse companies like Stefanini Group and SciCrop®, where I honed my skills in full-stack development, working with technologies like Java, Vue, React Native, and Angular.
+At BBCE, I take pride in developing microservices in NodeJs with TypeScript, integrating various AWS services and ensuring agile development practices. My experience spans across diverse companies like Stefanini Group and SciCrop®, where I honed my skills in full-stack development, working with technologies like Java, Vue, React Native, and Angular.
 
 As a Software Engineer, I am committed to continuous learning and applying the best practices in DevOps and Design Thinking. My certifications in Red Hat OpenShift, Scrum Foundation, and EXIN SPF are a testament to my dedication to professional growth.
 
